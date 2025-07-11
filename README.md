@@ -2,7 +2,7 @@
 
 **`Matemática, Investimentos e Programação`**
 
-Me chamo Luigi Euzebio, tenho 20 anos. Atualmente, estou cursando Matemática Aplicada a Negócios na USP - Ribeirão Preto. Sou um entusiasta do mercado financeiro, sempre disposto a aprender e aplicar os meus estudos em matemática e programação à finanças.
+Me chamo Luigi Euzebio, tenho 21 anos. Atualmente, estou cursando Matemática Aplicada a Negócios na USP - Ribeirão Preto. Sou um entusiasta do mercado financeiro, sempre disposto a aprender e aplicar os meus estudos em matemática e programação à finanças.
 
 ---
 
